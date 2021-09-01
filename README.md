@@ -39,4 +39,3 @@
 
 [![Linkedin: Ari Silva](https://img.shields.io/badge/-AriSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariovaldo-silva-306710199/)](https://www.linkedin.com/in/ariovaldo-silva-306710199/)
 [![Gmail Badge](https://img.shields.io/badge/-ariovaldo.bsjunior@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ariovaldo.bsjunior@gmail.com)](mailto:ariovaldo.bsjunior@gmail.com)
-[![GitHub Ari Silva]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/AriSilva94)
