@@ -3,9 +3,9 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.anhanguera.com/">Anhanguera</a>.
+- 🎓 &nbsp; Formando em Análise e Desenvolvimento de Sistemas na <a href="https://www.anhanguera.com/">Anhanguera</a>.
 - 💼 &nbsp; Trabalhando como Analista de Sistemas na <a href="https://www.deal.com.br/">Deal</a>
-- 🌱 &nbsp; Aprendendo mais sobre React JS / Native.
+- 🌱 &nbsp; Aprendendo mais sobre React JS / React ative.
 
 ##
  <div>
