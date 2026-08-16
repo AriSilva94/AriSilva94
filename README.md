@@ -1,38 +1,80 @@
-## Bem vindo! Meu nome é Ariovaldo
+<div align="center">
 
-<h3> :man: &nbsp;Sobre mim </h3>
+# 👋 Olá, eu sou o Ariovaldo
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formando em Análise e Desenvolvimento de Sistemas na <a href="https://www.anhanguera.com/">Anhanguera</a>.
-- 💼 &nbsp; Trabalhando como Analista de Sistemas na <a href="https://www.deal.com.br/">Deal</a>
-- 🌱 &nbsp; Aprendendo mais sobre React JS / React Native.
+### Full Stack Developer
 
-##
+Construindo aplicações web modernas, performáticas e fáceis de manter.
 
-<div>
-  <img height="180em" src="./profile/stats.svg" />
-  <img height="180em" src="./profile/top-langs.svg" />
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-arisilva.tech-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://arisilva.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariovaldo-silva-306710199)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariovaldo.bsjunior@gmail.com)
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+---
+
+## 👨‍💻 Sobre mim
+
+Desenvolvedor Full Stack focado em criar aplicações web modernas e soluções que vão da interface até infraestrutura e deploy.
+
+- ⚡ Front-end com **Next.js, React e TypeScript**
+- 🧠 Back-end com **Node.js, NestJS e Strapi**
+- 🗄️ Bancos de dados com **PostgreSQL e Supabase**
+- 🐳 Infraestrutura com **Docker, Cloudflare e CI/CD**
+- 🤖 IA e automação aplicadas ao desenvolvimento
+- 🚀 Interesse em arquitetura, performance e escalabilidade
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,nestjs,postgres,supabase,docker,git,github,cloudflare" />
+
 </div>
 
-##
+---
 
-<div> 
-  <a href="mailto:ariovaldo.bsjunior@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+## 📊 GitHub
 
-  <a href="https://www.linkedin.com/in/ariovaldo-silva-306710199">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<div align="center">
 
-  ![Snake animation](https://github.com/arisilva94/arisilva94/blob/output/github-contribution-grid-snake.svg)
+<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/top-langs.svg" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AriSilva94/AriSilva94/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AriSilva94/AriSilva94/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/AriSilva94/AriSilva94/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### ☕ Código, café e boas ideias.
+
 </div>
