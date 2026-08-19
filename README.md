@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Ariovaldo
+# 👋 Olá, eu sou o Ari Silva
 
 ### Full Stack Developer
 
@@ -21,8 +21,8 @@ Construindo aplicações web modernas, performáticas e fáceis de manter.
 Desenvolvedor Full Stack focado em criar aplicações web modernas e soluções que vão da interface até infraestrutura e deploy.
 
 - ⚡ Front-end com **Next.js, React e TypeScript**
-- 🧠 Back-end com **Node.js, NestJS e Strapi**
-- 🗄️ Bancos de dados com **PostgreSQL e Supabase**
+- 🧠 Back-end com **Node.js, NestJS, .NET e Strapi**
+- 🗄️ Bancos de dados com **PostgreSQL**
 - 🐳 Infraestrutura com **Docker, Cloudflare e CI/CD**
 - 🤖 IA e automação aplicadas ao desenvolvimento
 - 🚀 Interesse em arquitetura, performance e escalabilidade
@@ -33,7 +33,7 @@ Desenvolvedor Full Stack focado em criar aplicações web modernas e soluções 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,nestjs,postgres,supabase,docker,git,github,cloudflare" />
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,nestjs,dotnet,postgres,docker,git,github,cloudflare" />
 
 </div>
 
